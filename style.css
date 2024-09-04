@@ -68,6 +68,10 @@ nav ul li a:hover {
     border-radius: 50%;
     display: block;
     margin: 0 auto;
+    position: absolute;
+    right: 100px;
+    top: 200px;
+    
     
 }
 .hero-content h1 {
